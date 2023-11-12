@@ -1,0 +1,244 @@
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.exe
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.deps.json
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.runtimeconfig.json
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.pdb
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.AssemblyReference.cache
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.Form1.resources
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.GenerateResource.cache
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.GeneratedMSBuildEditorConfig.editorconfig
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.AssemblyInfoInputs.cache
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.AssemblyInfo.cs
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.CoreCompileInputs.cache
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\refint\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.pdb
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.genruntimeconfig.cache
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\ref\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.CopyComplete
+G:\Windows\QuanLiSinhViennn\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.Properties.Resources.resources
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.exe
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.deps.json
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.runtimeconfig.json
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.pdb
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.AssemblyReference.cache
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.Form1.resources
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.Properties.Resources.resources
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.GenerateResource.cache
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.GeneratedMSBuildEditorConfig.editorconfig
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.AssemblyInfoInputs.cache
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.AssemblyInfo.cs
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.CoreCompileInputs.cache
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.CopyComplete
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\refint\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.pdb
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.genruntimeconfig.cache
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\obj\Debug\net6.0-windows\ref\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Enums.NET.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.Core.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\itextsharp.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\EPPlus.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\ExcelDataReader.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\ClosedXML.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\Irony.dll
+G:\Windows\QuanLiSinhViennnImage\QuanLiSinhViennn\bin\Debug\net6.0-windows\XLParser.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.exe
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.deps.json
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.runtimeconfig.json
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.pdb
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\ClosedXML.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Enums.NET.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\EPPlus.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\ExcelDataReader.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Irony.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\itextsharp.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.Core.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\XLParser.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.AssemblyReference.cache
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.Form1.resources
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.Properties.Resources.resources
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.GenerateResource.cache
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.GeneratedMSBuildEditorConfig.editorconfig
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.AssemblyInfoInputs.cache
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.AssemblyInfo.cs
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.CoreCompileInputs.cache
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.CopyComplete
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\refint\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.pdb
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.genruntimeconfig.cache
+G:\Windows\QuanLiSinhViennnImage - 3Tier\QuanLiSinhViennn\obj\Debug\net6.0-windows\ref\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.AssemblyReference.cache
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.Form1.resources
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.Properties.Resources.resources
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.GenerateResource.cache
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.GeneratedMSBuildEditorConfig.editorconfig
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.AssemblyInfoInputs.cache
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.AssemblyInfo.cs
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.CoreCompileInputs.cache
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\refint\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.pdb
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.exe
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.deps.json
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.runtimeconfig.json
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\QuanLiSinhViennn.pdb
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\ClosedXML.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Enums.NET.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\EPPlus.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\ExcelDataReader.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Irony.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\itextsharp.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.Core.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\XLParser.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.csproj.CopyComplete
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\QuanLiSinhViennn.genruntimeconfig.cache
+G:\Windows\QuanLiSinhViennnImage - 3Tier - Test\QuanLiSinhViennn\obj\Debug\net6.0-windows\ref\QuanLiSinhViennn.dll
